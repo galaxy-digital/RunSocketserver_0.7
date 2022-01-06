@@ -1,1 +1,2 @@
-# RunSocketserver_0.7
+# NodeServer
+This is a Node Server for Checkers.
